@@ -1,0 +1,60 @@
+.categories .a{
+    /* justify-content: center; */
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 45px;
+}
+.categories h1{
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 40.3px;
+    color: #C7A878;
+}
+
+.categories .global{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    height: 540px;
+}
+.categories .card1{
+    background-image: url('/public/Group.png');
+    background-size: cover;
+    border-radius: 10px;
+    width: 450px;
+    margin-right: 2%;
+}
+.categories .card2{
+    background-image: url('/public/Group2.png');
+}
+.categories .card3{
+    background-image: url('/public/Group3.png');
+}
+.categories .card4{
+    background-image: url('/public/Group4.png');
+}
+.categories h3 {
+    font-weight: 600;
+    font-family: 'Poppins';
+    padding-top: 16px;
+    margin-left: 6%;
+    font-size: 24px;
+}
+.categories p{
+    font-weight: 600;
+    font-family: 'Poppins';
+    margin-left: 6%;
+    font-size: 12px;
+
+}
+.categories .C{
+    background-color: red;
+    height: 173PX;
+    background-size: cover;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.categories .N{
+    width: 40%;
+}
